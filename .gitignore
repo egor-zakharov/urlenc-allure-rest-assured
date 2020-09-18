@@ -1,0 +1,5 @@
+/urlenc-allure-rest-assured.iml
+/.allure/
+/.idea/
+/allure-results/
+/target/
